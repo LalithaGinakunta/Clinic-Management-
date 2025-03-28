@@ -37,8 +37,7 @@ The **Dental Clinic System** is a comprehensive software solution designed to st
 3. Manage appointments, patient records, and invoices easily.
 
 ## 🤝 Contributors
-- **Your Name** (your-email@example.com)
-- **Other Contributor** (other-email@example.com)
+-  Lalitha Saarasa Ginakunta
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
